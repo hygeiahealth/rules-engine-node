@@ -1,0 +1,20 @@
+{
+  "name": "rules-engine",
+  "version": "2.0.0",
+  "description": "interface to RulesEngine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.hygeiahealth.com:gbk/rules-engine-node.git"
+  },
+  "dependencies": {
+    "log4js": "6.3.0",
+    "node-fetch-retry": "1.1.0",
+    "url-escape-tag": "1.0.0"
+  },
+  "author": "Rob Bullock",
+  "license": "ISC"
+}
