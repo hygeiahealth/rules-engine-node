@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@gitlab.hygeiahealth.com:gbk/rules-engine-node.git"
+    "url": "git@github.com:hygeiahealth/rules-engine-node.git"
   },
   "dependencies": {
     "log4js": "6.3.0",
